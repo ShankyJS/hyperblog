@@ -1,5 +1,5 @@
 # Clases
-
+i
 ## · Clase 1 - ¿Qué es Git? ·
 
 Git: Es un sistema de control de versiones
